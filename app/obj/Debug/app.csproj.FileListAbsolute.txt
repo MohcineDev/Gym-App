@@ -1,0 +1,17 @@
+C:\Users\MOH\Desktop\Gym\app\app\bin\Debug\app.exe.config
+C:\Users\MOH\Desktop\Gym\app\app\bin\Debug\app.exe
+C:\Users\MOH\Desktop\Gym\app\app\bin\Debug\app.pdb
+C:\Users\MOH\Desktop\Gym\app\app\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\MOH\Desktop\Gym\app\app\obj\Debug\app.AddMember.resources
+C:\Users\MOH\Desktop\Gym\app\app\obj\Debug\app.AllMembers.resources
+C:\Users\MOH\Desktop\Gym\app\app\obj\Debug\app.Form1.resources
+C:\Users\MOH\Desktop\Gym\app\app\obj\Debug\app.Properties.Resources.resources
+C:\Users\MOH\Desktop\Gym\app\app\obj\Debug\app.RenewRegistration.resources
+C:\Users\MOH\Desktop\Gym\app\app\obj\Debug\app.Search.resources
+C:\Users\MOH\Desktop\Gym\app\app\obj\Debug\app.Update.resources
+C:\Users\MOH\Desktop\Gym\app\app\obj\Debug\app.csproj.GenerateResource.cache
+C:\Users\MOH\Desktop\Gym\app\app\obj\Debug\app.csproj.CopyComplete
+C:\Users\MOH\Desktop\Gym\app\app\obj\Debug\app.exe
+C:\Users\MOH\Desktop\Gym\app\app\obj\Debug\app.pdb
+C:\Users\MOH\Desktop\Gym\app\app\obj\Debug\app.csprojAssemblyReference.cache
+C:\Users\MOH\Desktop\Gym\app\app\obj\Debug\app.Delete.resources
